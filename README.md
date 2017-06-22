@@ -1,6 +1,12 @@
 # ChainReaction
 Chain Reaction game for DOS. [Hobby Project]
 
+# Screenshots
+![1](./sc/1.png)
+![2](./sc/2.png)
+![3](./sc/3.png)
+![4](./sc/4.png)
+
 # Compilation
 Turbo C/C++ compiler is required to compile the program.
 
